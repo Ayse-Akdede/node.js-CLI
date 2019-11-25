@@ -1,0 +1,27 @@
+{
+  "name": "@ayse.akdede/node.js-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "holiday": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayse-Akdede/node.js-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayse-Akdede/node.js-CLI/issues"
+  },
+  "homepage": "https://github.com/Ayse-Akdede/node.js-CLI#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "country-list": "^2.2.0",
+    "request": "^2.88.0"
+  }
+}
