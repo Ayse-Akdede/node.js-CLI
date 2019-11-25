@@ -7,6 +7,8 @@ $ npm link
 ```  
 
 ## Execute  
-npx @ayse.akdede/node.js-CLI
-[COUNTRY] [YEAR].  
+```
+npx @ayse.akdede/node.js-CLI [COUNTRY] [YEAR].  
+```  
+
 The year is optionnal, the defeult value is the current year.  
