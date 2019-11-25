@@ -5,5 +5,5 @@ $ npm install @ayse.akdede/node.js-CLI
 $ npm link  
 ## Execute  
 npx @ayse.akdede/node.js-CLI
-[COUNTRY] [YEAR].
+[COUNTRY] [YEAR].  
 The year is optionnal, the defeult value is the current year.  
